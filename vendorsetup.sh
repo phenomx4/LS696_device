@@ -1,0 +1,1 @@
+add_lunch_combo LS696-userdebug
